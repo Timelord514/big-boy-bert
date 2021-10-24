@@ -5,8 +5,14 @@ h1 {
 }
 
 body {
-  text-align: center;
-  font-size: 30px;
-  background-color: maroon;
-  align-items: center;
+  margin: 0;
+  font-family: var(sans-serif);
+  font-size: var(20px);
+  font-weight: var(bolder);
+  line-height: var(0.25%);
+  color: var(black);
+  text-align: var(center);
+  background-color: var(black);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
